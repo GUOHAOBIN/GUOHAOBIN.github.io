@@ -1,0 +1,2 @@
+# GUOHAOBIN.github.io
+HexoBLog
